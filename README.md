@@ -1,5 +1,5 @@
 ## Project Summary
-This repository holds the code and data for designating Cases and Controls for specific enteric pathogens for the manuscript "HLA Class I and II Associations with Common Enteric Pathogens in the First Year of Life" (McCowin et al, 2021). This work is published in <i>eBioMedicine</i> and is available by clicking on the following [link](https://pubmed.ncbi.nlm.nih.gov/33910121/). 
+This repository holds the code and data for designating Cases and Controls for specific enteric pathogens for the manuscript "HLA Class I and II Associations with Common Enteric Pathogens in the First Year of Life" (McCowin et al, 2021). This work is published in <i>eBioMedicine</i> and is available by clicking on the following [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8093888/). 
 
 The goal of this analysis was to identify associations with specific HLA haplotypes and susceptibility to 12 specific enteric pathogens in the PROVIDE cohort (see Kirkpatrick et al, 2015 for more information on this population). To that aim, we first designated individuals as cases or controls for each pathogen before analyzing associations with HLA data. The process of designating individuals as cases or controls is outlined here.
 
