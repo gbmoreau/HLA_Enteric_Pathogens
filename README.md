@@ -14,3 +14,7 @@ The goal of this analysis was to identify associations with specific HLA haploty
 
 ## Dependancies
 This code requires only the tidyverse package (Wickham et al, 2019) in R to run.
+
+## Contact Information
+
+G. Brett Moreau - gbm5pn@virginia.edu
